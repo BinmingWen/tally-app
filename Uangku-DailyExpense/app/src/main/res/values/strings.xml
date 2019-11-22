@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">少女帐记</string>
+
+    <string name="navigation_drawer_open">开放导航栏</string>
+    <string name="navigation_drawer_close">关闭导航栏</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_reset">重置</string>
+    <string name="todayexpense">今天的费用:</string>
+    <string name="availablemoney">剩余的钱</string>
+    <string name="setingupwelcome">欢迎来到少女帐记</string>
+
+    <string name="aboutheader">Copyright &#169; 2019</string>
+    <string name="abouttext">一切随心记,万物皆少女。</string>
+    <string name="aboutfooter">机智八百泡温泉 版权所有</string>
+
+    <string name="sharebody">你看看更多信息:https://www.sui.com/</string>
+    <string name="sharedialog">分享...</string>
+    <string name="sharesubject">少女帐记 分享</string>
+
+    <string name="settingupmessagesucces">理性控制消费</string>
+
+    <string name="nocategory">还没有任何类别</string>
+    <string name="noexpense">还没有任何费用</string>
+
+    <string-array name="dialog_kategori">
+        <item>更新类别</item>
+        <item>删除类别</item>
+    </string-array>
+
+    <string-array name="dialog_backup">
+        <item>备份数据</item>
+        <item>导入数据</item>
+    </string-array>
+
+    <string-array name="dialog_expense">
+        <item>更新支出</item>
+        <item>删除支出</item>
+    </string-array>
+
+    <string-array name="Bulan">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string name="title_activity_settings">设置</string>
+
+
+</resources>
